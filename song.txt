@@ -17,4 +17,5 @@ feature2 commit2
 
 commit for tag
 
+finish line
 
